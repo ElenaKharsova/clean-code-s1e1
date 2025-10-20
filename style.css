@@ -21,12 +21,12 @@ body {
 }
 
 @media (max-width:768px) {
-  .header-wrap { 
+  .header-wrap {
     text-align: center;
   }
 }
 
-.centered-main-page-element {
+.main-wrap {
   display: block;
   width: 500px;
   margin: 0 auto 0;
